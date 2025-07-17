@@ -28,9 +28,6 @@ proj-livro/
 ├── modelos/
 │   └── livro.py       # Classe Livro com lógica e integração com SQLite
 ├── main.py            # Menu interativo e controle de execução
-├── livros.db          # Banco de dados SQLite (gerado automaticamente)
-├── livros.log         # Arquivo de log (gerado automaticamente)
-├── livros_exportado.csv # Exportação opcional em CSV
 └── README.md          # Este arquivo
 ```
 
